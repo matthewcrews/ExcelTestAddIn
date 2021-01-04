@@ -16,9 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="ExcelDna.AddIn" Version="1.1.1">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
+    <PackageReference Include="ExcelDna.AddIn" Version="1.1.1" PrivateAssets="All" />
   </ItemGroup>
 </Project>
